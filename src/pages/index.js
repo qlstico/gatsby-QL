@@ -24,10 +24,12 @@ const IndexPage = () => (
         </div>
       </Grid>
       <Grid item xs={8}>
-        <h1>Gatsby Material UI Starter</h1>
+        <h1>qlStico</h1>
         <h5>
-          A responsive, minimalist Gatsby starter based on the world's most
-          popular React UI framework.
+          Electron App focussed on creating, exploring, and editing Postgres
+          Databases with GraphQL. Checkout our integrated windows for running
+          raw mutations/queries, and for visualizing your GraphQL graph and
+          window
         </h5>
       </Grid>
     </Grid>
